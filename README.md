@@ -13,7 +13,7 @@ This is an end-to-end intelligent video analytics system for counting pizza sale
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pizza-sales-counter.git
+git clone https://github.com/Cuong251/pizza_sales_counter.git
 cd pizza-sales-counter
 ```
 
@@ -85,8 +85,6 @@ pizza-sales-counter/
 
 ---
 
-## 🛠️ Future Improvements
-- Upload images in UI
-- Auto-label suggestions
-- Export trained weights via UI
+## Link to the Dataset Folder
+https://drive.google.com/drive/folders/1pOebIpvekqBWlnZS1PD-_n6ZDSx1Ytrt?usp=drive_link
 
