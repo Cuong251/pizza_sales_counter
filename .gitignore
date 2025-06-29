@@ -1,0 +1,41 @@
+# === Python cache and environment ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.venv/
+venv/
+
+# === SQLite and DBs ===
+*.sqlite3
+*.db
+
+# === Dataset and outputs ===
+dataset/
+runs/
+pizza_counts.json
+
+# === Feedback-related files ===
+dataset/feedback_labels/
+dataset/feedback_candidates/
+
+# === Model files and weights ===
+*.pt
+*.pth
+*.onnx
+*.npy
+*.pkl
+
+# === Video and image data ===
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+
+# === MacOS junk ===
+.DS_Store
+
+

@@ -1,0 +1,17 @@
+ultralytics
+opencv-python
+numpy
+torch>=2.0
+tensorflow==2.15.0
+scikit-learn
+scipy
+filterpy
+matplotlib
+torch
+torchvision
+numpy
+pillow
+streamlit==1.29.0
+streamlit-drawable-canvas
+fastapi
+uvicorn
